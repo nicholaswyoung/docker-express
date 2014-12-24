@@ -1,0 +1,12 @@
+{
+  "id": "express-demo",
+  "cpus": 0.5,
+  "mem": 64.0,
+  "instances": 2,
+  "container": {
+    "type": "DOCKER",
+    "docker": {
+      "image": "originalmachine/express-demo"
+    }
+  }
+}
