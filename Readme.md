@@ -1,5 +1,7 @@
 # Node.js on Docker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/docker-express.svg)](https://greenkeeper.io/)
+
 This is a basic example of Dockerizing a Node.js application, using the [Docker images](https://nodesource.com/blog/nodesource-docker-images) provided by [Nodesource](http://nodesource.com).
 
 ## License
